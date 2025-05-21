@@ -7,7 +7,7 @@
 ## 🚀 How It Works
 
 1. **User Input**  
-   - Provide a video URL (e.g., YouTube, Vimeo).
+   - Provide a video URL (e.g., YouTube).
 
 2. **Agent 1 – Blog Researcher**  
    - Uses `crewai_tools.youtubechannelsearchtools` to fetch video metadata (title, description, tags).  
@@ -41,7 +41,6 @@
 ---
 
 ## 📋 Prerequisites
-
 1. **Clone this repo**  
    ```bash
    git clone https://github.com/TSujal/Video2Blog.git
