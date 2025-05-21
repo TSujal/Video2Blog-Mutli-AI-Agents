@@ -60,3 +60,18 @@ pip install -r requirements.txt
 4) **Usage**
 # From project root
 streamlit run app.py     
+
+
+## 🤝 Contributing
+
+Pull requests are welcome. Please open an issue first to discuss what you would like to change or add.
+
+---
+
+## 📫 Contact
+
+Built by **Sujal Thakkar**  
+📧 thakkar.su@northeastern.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/sujal-thakkar/) • [GitHub](https://github.com/TSujal)
+
+---
